@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}This element is part of a school project about distributed systems.
+${licensePrefix}It was written by Maxime Flamcourt.
+<#if licenseLast??>
+${licenseLast}
+</#if>
